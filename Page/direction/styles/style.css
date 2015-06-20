@@ -105,7 +105,7 @@ body.load {
 }*/
 .tail{
 	width:100px;
-	height:140px;
+	height:102px;
 	position:relative;
 	top:-50px;
 	left:10px;
@@ -119,8 +119,8 @@ body.load {
 }
 .eevee{
 	cursor:pointer;
-	width:260px;
-	height:250px;
+	width:257px;
+	height:208px;
 	position:absolute;
 	top:-100px;
 	left:-160px;
@@ -291,9 +291,9 @@ body.load {
 	position:relative;
 	right:80px;
 	top:170px;
-	width:80px;
+	width:70px;
 	width:50%;
-	height:140px;
+	height:129px;
 	background: url(../images/postbox.png) right 0 no-repeat transparent;
 }
 .joinshop0{
@@ -570,12 +570,12 @@ body.load {
 }
 .board{
 	cursor:pointer;
-	width:240px;
+	width:209px;
 	height:200px;
 	background: url(../images/announcement.png) 0 0 no-repeat transparent;
 	position:relative;
 	top:-100px;
-	left:-70px;
+	left:-60px;
 }
 .fence{
 	float:right;
@@ -597,8 +597,10 @@ body.load {
 	position:relative;
 	right:40px;
 	top:500px;
-	width:225px;
-	height:300px;
+	/*width:225px;*/
+	width:212px;
+	/*height:300px;*/
+	height: 331px;
 	background: url(../images/fatb.png) 0 0 no-repeat transparent;
 }
 .fat2{
@@ -646,8 +648,8 @@ body.load {
 	background: url(../images/dialog01.png) 0 0 no-repeat transparent;
 }
 .letter1{
-	width:225px;
-	height:135px;
+	width:203px;
+	height:127px;
 	background: url(../images/envelope_wingull.png) 0 0 no-repeat transparent;
 	position:absolute;
 	right:-20px;
@@ -674,8 +676,8 @@ body.load {
 	left:175px;
 }
 .letter2{
-	width:225px;
-	height:135px;
+	width:218px;
+	height:130px;
 	background: url(../images/envelope_pika.png) 0 0 no-repeat transparent;
 	position:absolute;
 	left::-30px;

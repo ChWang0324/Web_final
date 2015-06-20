@@ -1,0 +1,24 @@
+$("#conversation").mouseover(function(){
+  $("#conversation").stop(true).animate({
+  opacity:'0.5'});  
+});
+$("#conversation").mouseout(function(){
+  $("#conversation").stop(true).animate({
+  opacity:'1'});  
+});
+$("#alphabet").mouseover(function(){
+  $("#alphabet").stop(true).animate({
+  opacity:'0.5'});  
+});
+$("#alphabet").mouseout(function(){
+  $("#alphabet").stop(true).animate({
+  opacity:'1'});  
+});
+$("#aboutus").mouseover(function(){
+  $("#aboutus").stop(true).animate({
+  opacity:'0.5'});  
+});
+$("#aboutus").mouseout(function(){
+  $("#aboutus").stop(true).animate({
+  opacity:'1'});  
+});
