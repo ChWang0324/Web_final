@@ -22,3 +22,11 @@ $("#aboutus").mouseout(function(){
   $("#aboutus").stop(true).animate({
   opacity:'1'});  
 });
+$("#foot").mouseover(function(){
+  $("#foot").stop(true).animate({
+  opacity:'0.5'});  
+});
+$("#foot").mouseout(function(){
+  $("#foot").stop(true).animate({
+  opacity:'1'});  
+});
